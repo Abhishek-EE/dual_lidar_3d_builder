@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="dse_icons">
+    <file>icons/move_selected_photos_30x52gry.png</file>
+    <file>icons/shift_column_down_30x52.png</file>
+    <file>icons/shift_column_up_30x52.png</file>
+    <file>icons/shift_down_frm_row_30x52.png</file>
+    <file>icons/shift_dwn_close_gap_30x52.png</file>
+    <file>icons/shift_selected_dwn_30x52gry.png</file>
+    <file>icons/shift_selected_up_30x52gry.png</file>
+    <file>icons/shift_up_close_gap_30x52.png</file>
+    <file>icons/shift_up_frm_row_30x52.png</file>
+    <file>icons/nxt_blu_32.png</file>
+    <file>icons/lst_blu_32.png</file>
+  </qresource>
+</RCC>

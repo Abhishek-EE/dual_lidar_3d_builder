@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 2023
+
+@author: jesse
+"""
+
+create separate modules for hz and vt lidar data processing
+
+
+
+
